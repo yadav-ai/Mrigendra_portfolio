@@ -1,16 +1,17 @@
 :root {
-    --bg-color: #020617;
-    /* Deepest Slate/Black */
-    --text-color: #e2e8f0;
-    --primary-color: #38bdf8;
-    /* Cyan */
-    --secondary-color: #818cf8;
-    /* Indigo/Purple */
-    --accent-color: #f472b6;
-    /* Pink */
-    --glass-bg: rgba(15, 23, 42, 0.7);
-    --glass-border: rgba(255, 255, 255, 0.08);
-    --card-bg: rgba(2, 6, 23, 0.6);
+    --bg-color: #ccf1f2;
+    /* Light Slate White */
+    --text-color: #0f172a;
+    /* Dark Slate */
+    --primary-color: #bddeed;
+    /* Azure Blue */
+    --secondary-color: #d3f1f3;
+    /* Indigo */
+    --accent-color: #db2777;
+    /* Dark Pink */
+    --glass-bg: rgba(255, 255, 255, 0.85);
+    --glass-border: rgba(0, 0, 0, 0.1);
+    --card-bg: #ffffff;
     --font-heading: 'Outfit', sans-serif;
     --font-body: 'Inter', sans-serif;
     --transition: all 0.3s ease;
@@ -151,8 +152,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.15), transparent 45%),
-        radial-gradient(circle at bottom left, rgba(129, 140, 248, 0.15), transparent 45%);
+    background: radial-gradient(circle at top right, rgba(14, 165, 233, 0.1), transparent 45%),
+        radial-gradient(circle at bottom left, rgba(79, 70, 229, 0.1), transparent 45%);
     position: relative;
 }
 
@@ -188,7 +189,7 @@ body {
 
 .hero .summary {
     font-size: 1.1rem;
-    color: #94a3b8;
+    color: #475569;
     margin-bottom: 3rem;
     line-height: 1.8;
 }
@@ -303,7 +304,7 @@ body {
 .timeline-content:hover {
     transform: translateX(10px);
     border-color: var(--primary-color);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .timeline-content .date {
@@ -320,13 +321,13 @@ body {
 
 .timeline-content .company {
     font-size: 1.1rem;
-    color: var(--secondary-color);
+    color: #475569;
     margin-bottom: 1rem;
 }
 
 .timeline-content .location {
     font-size: 0.9rem;
-    color: #94a3b8;
+    color: #64748b;
     margin-bottom: 1rem;
     display: flex;
     align-items: center;
@@ -397,7 +398,7 @@ body {
 .project-card:hover {
     transform: translateY(-10px);
     border-color: var(--secondary-color);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
 
 .card-content {
@@ -576,7 +577,7 @@ body {
 footer {
     text-align: center;
     padding: 2rem;
-    background: rgba(15, 23, 42, 0.8);
+    background: #f1f5f9;
     margin-top: 4rem;
 }
 
