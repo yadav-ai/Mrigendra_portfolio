@@ -5,6 +5,7 @@ cv_data = {
     "email": "acmrigendra@gmail.com",
     "phone": "(+91) 9525653515",
     "location": "Faridabad, India",
+    "dob": "23 April 1993",
     "linkedin_url": "https://linkedin.com/in/mrigendra-kumar-2471ab95",  # Update with your actual LinkedIn URL
     "github_url": "https://github.com/yadav-ai",      # Update with your actual GitHub URL
     "summary": """Master’s in AI and ML graduate with expertise in Healthcare AI and NLP. Eager to leverage proficiency in Python and advanced technical skills in a professional environment to build scalable and efficient solutions.""",

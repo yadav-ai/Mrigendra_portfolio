@@ -202,6 +202,12 @@
                 <i class="fas fa-map-marker-alt"></i>
                 <span>{{ data.location }}</span>
             </div>
+            {% if data.dob %}
+            <div class="contact-item">
+                <i class="fas fa-birthday-cake"></i>
+                <span>{{ data.dob }}</span>
+            </div>
+            {% endif %}
         </div>
     </div>
 </section>
