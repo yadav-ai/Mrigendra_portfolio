@@ -63,6 +63,27 @@ cv_data = {
             "location": "Chennai, TN",
             "date": "June 2021 - July 2023",
             "score": "CGPA: 7.67 / 10"
+        },
+        {
+            "institution": "Patliputra University Patna",
+            "degree": "Master of Library and Information Science",
+            "location": "Patna, Bihar",
+            "date": "2021",
+            "score": "Score: 61.75%"
+        },
+        {
+            "institution": "Maulana Mazharul Haque Arabic and Persian University Patna",
+            "degree": "Bachelor of Library and Information Science",
+            "location": "Patna, Bihar",
+            "date": "2018",
+            "score": "Score: 76.63%"
+        },
+        {
+            "institution": "Babasaheb Bhimrao Ambedkar Bihar University Muzaffarpur",
+            "degree": "Bachelor of Science (Hons.)",
+            "location": "Muzaffarpur, Bihar",
+            "date": "2016",
+            "score": "Score: 57.5%"
         }
     ],
     "certifications": [
@@ -86,6 +107,43 @@ cv_data = {
             "date": "May 2024",
             "organization": "International Journal of Engineering Research & Technology (IJERT)",
             "description": "Proposed a strategic framework for Indian libraries, leveraging LLMs to improve user service efficiency."
+        }
+    ],
+    "volunteering": [
+        {
+            "role": "NSS volunteer",
+            "organization": "RGNIYD",
+            "date": "2021-2023",
+            "url": "https://drive.google.com/file/d/1gWdxbn4DU_1veDtiS2LLEjZIC5Eoj-s7/view?usp=sharing",
+            "description": "Dedicating 240 Hours to meaningful social service in the National Service Scheme."
+        },
+        {
+            "role": "Student placement coordinator",
+            "organization": "Department of CS (AI and ML), RGNIYD",
+            "date": "12/2022 - 07/2023",
+            "description": "Coordinated placement activities for students in the Department of CS (AI and ML)."
+        }
+    ],
+    "relevant_coursework": [
+        {
+            "title": "Five Days Workshop on Advanced Techniques in Inverse Problem Solving: From Regularization to Deep Learning",
+            "provider": "NIT Goa",
+            "url": "https://drive.google.com/file/d/1zToy10126vDRa1cj7ao8p6iYyUr53bDE/view?usp=sharing"
+        },
+        {
+            "title": "AICTE Sponsored Online Short Term Training Program on Next Generation AI – Research Perspectives",
+            "provider": "NIT Nagaland",
+            "url": "https://drive.google.com/file/d/1YEUFLxDxUM02Lcq79b0C4DSpdDGdWjyU/view?usp=sharing"
+        },
+        {
+            "title": "Short Term Course On ML and its Applications in IoT, Computer Vision and Cloud Computing",
+            "provider": "NIT Jamshedpur",
+            "url": "https://drive.google.com/file/d/11xw-vUPL8G8x_Lc9SMJOICt4a0zIKB6O/view?usp=sharing"
+        },
+        {
+            "title": "Short Term Course on Security in AI: Strategies and Best Practices",
+            "provider": "NIT Jalandhar",
+            "url": "https://drive.google.com/file/d/11xw-vUPL8G8x_Lc9SMJOICt4a0zIKB6O/view"
         }
     ]
 }
